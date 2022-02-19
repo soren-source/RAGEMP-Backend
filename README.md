@@ -1,2 +1,2 @@
 # RAGEMP-Backend
-# Simple Backend Base for Server Development
+Simple Backend Base for Server Development
